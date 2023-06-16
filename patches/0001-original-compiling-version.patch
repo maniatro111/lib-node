@@ -1,0 +1,11 @@
+--- ./node-18.15.0/deps/v8/include/v8config.h	2023-06-15 17:43:32.837008490 +0300
++++ ./node-18.15.0/deps/v8/include/v8config_copy.h	2023-06-15 17:43:22.612849257 +0300
+@@ -106,7 +106,7 @@
+ # define V8_OS_POSIX 1
+ # define V8_OS_STRING "cygwin"
+ 
+-#elif defined(__linux__)
++#elif defined(__linux__) || 1
+ # define V8_OS_LINUX 1
+ # define V8_OS_POSIX 1
+ # define V8_OS_STRING "linux"
