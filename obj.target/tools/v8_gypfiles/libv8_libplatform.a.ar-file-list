@@ -1,0 +1,12 @@
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/default-foreground-task-runner.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/default-job.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/default-platform.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/default-worker-threads-task-runner.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/delayed-task-queue.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/task-queue.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/tracing/trace-buffer.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/tracing/trace-config.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/tracing/trace-object.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/tracing/trace-writer.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/tracing/tracing-controller.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/worker-thread.o

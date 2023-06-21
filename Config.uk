@@ -1,0 +1,3 @@
+menuconfig LIBNODE
+	bool "Nodejs - javascript interpreter"
+	default n

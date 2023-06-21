@@ -1,0 +1,17 @@
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/adler32.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/compress.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/cpu_features.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/crc32.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/deflate.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzclose.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzlib.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzread.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzwrite.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/infback.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/inffast.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/inflate.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/inftrees.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/trees.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/uncompr.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/zutil.o
+/node-jmen/node-v18.15.0/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/google/compression_utils_portable.o
